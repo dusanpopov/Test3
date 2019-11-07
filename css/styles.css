@@ -42,6 +42,22 @@ img{
     color: #3b3b3b;
 }
 
+.logo-text{
+    position: relative;
+}
+
+#logo-1, #logo-2{
+    position: absolute;
+}
+
+#logo-1{
+    top: -30px;
+}
+
+#logo-2{
+    top: -5px;
+}
+
 /* .socials-navbar{
     margin-right: 3rem;
 } */
