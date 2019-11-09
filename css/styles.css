@@ -51,11 +51,11 @@ img{
 }
 
 #logo-1{
-    top: -30px;
+    top: -25px;
 }
 
 #logo-2{
-    top: -5px;
+    top: 3px;
 }
 
 /* .socials-navbar{
@@ -214,6 +214,14 @@ main{
 
     .logo{
         font-size: 2rem;
+    }
+
+    #logo-1{
+        top: -30px;
+    }
+    
+    #logo-2{
+        top: -5px;
     }
 
     .main-navbar{
