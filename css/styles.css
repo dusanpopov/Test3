@@ -34,7 +34,6 @@ img{
     align-items: center;
 }
 
-
 .logo{
     margin: 0;
     font-family: 'Russo One', sans-serif;
@@ -55,7 +54,7 @@ img{
 }
 
 #logo-2{
-    top: 3px;
+    top: 4px;
 }
 
 /* .socials-navbar{
@@ -217,11 +216,11 @@ main{
     }
 
     #logo-1{
-        top: -30px;
+        top: -25px;
     }
     
     #logo-2{
-        top: -5px;
+        top: 4px;
     }
 
     .main-navbar{
